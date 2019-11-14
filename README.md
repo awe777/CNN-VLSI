@@ -1,5 +1,5 @@
 # CNN-VLSI
-Referensi CNN untuk Kelas VLSI
+Referensi CNN untuk Kelas VLSI EL4138
 
 # Index
 1. CNN_MNIST berisi model CNN refrensi
