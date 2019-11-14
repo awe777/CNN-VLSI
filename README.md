@@ -17,11 +17,10 @@ Jika anda pakai windows, cari jalan yang serupa.
 
 1. Direkomendasikan anda mendownload paket software conda https://docs.anaconda.com/anaconda/install/
 2. Buat virtual environment conda https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands
-3. Activate environment conda (source activate ..)
+3. Activate environment conda (source activate myenv) https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment
 4. Install dependencies di environment tersebut (dengan pip install ...)
 5. Install nb_kernels (conda install nb_conda)
-myenv) https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment
-6. download dan jalankan notebook (jupyter notebook)
+6. Download dan jalankan notebook (jupyter notebook)
 
 
 M. Rifqi Daffa S EL14
