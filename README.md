@@ -23,6 +23,7 @@ Jika anda pakai windows, cari jalan yang serupa.
 6. Download dan jalankan notebook (jupyter notebook)
 
 
-M. Rifqi Daffa S EL14
 
+Dibuat Oleh:
+M. Rifqi Daffa S EL14
 Sayyid Irshadul Ibad EL15
