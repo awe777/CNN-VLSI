@@ -12,7 +12,7 @@ Referensi CNN untuk Kelas VLSI
 4. Tensorflow
 5. Jupyter notebook
 
-# Cara menjalankan notebook di linxu/mac 
+# Cara menjalankan notebook di linux/mac 
 Jika anda pakai windows, cari jalan yang serupa.
 
 1. Direkomendasikan anda mendownload paket software conda https://docs.anaconda.com/anaconda/install/
@@ -24,4 +24,5 @@ Jika anda pakai windows, cari jalan yang serupa.
 
 
 M. Rifqi Daffa S EL14
+
 Sayyid Irshadul Ibad EL15
