@@ -9,7 +9,7 @@ Referensi CNN untuk Kelas VLSI EL4138
 1. Python >= 3.7
 2. Numpy
 3. Matplotlib
-4. Tensorflow
+4. Tensorflow (2.0+)
 5. Jupyter notebook
 
 # Cara menjalankan notebook di linux/mac 
@@ -24,8 +24,12 @@ Jika anda pakai windows, cari jalan yang serupa.
 
 
 
-Dibuat Oleh:
+(Kode asal) Dibuat Oleh:
 
-M. Rifqi Daffa S EL14
+M. Rifqi Daffa S EL14 (pemilik repo awal: https://github.com/rDaffa/CNN-VLSI)
 
 Sayyid Irshadul Ibad EL15
+
+Di-_fork_ Oleh:
+
+Joshua Adiel Wijaya Tekkom 2017 (SPS)
