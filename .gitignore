@@ -3,6 +3,7 @@ PIPList.md
 # Run-specific h5 file
 *.h5
 mnist.npz
+/mnist_tflite_models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
