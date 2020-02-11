@@ -6,11 +6,12 @@ Referensi CNN untuk Kelas VLSI EL4138
 2. model_processing_quantized berisi refrensi cara kuantisasi, verifikasi kuantisasi, dan cara mengambil weight terkuantisasi
 
 # Dependencies
-1. Python >= 3.7
+1. Python 3.5-3.7
 2. Numpy
-3. Matplotlib
-4. Tensorflow (2.0+)
-5. Jupyter notebook
+3. Keras
+4. Matplotlib
+5. Tensorflow (2.0+)
+6. Jupyter notebook
 
 # Cara menjalankan notebook di linux/mac 
 Jika anda pakai windows, cari jalan yang serupa.
