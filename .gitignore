@@ -6,6 +6,8 @@ mnist.npz
 /mnist_tflite_models/
 /annotations/
 /train2017/
+/val2017/
+/test2017/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
