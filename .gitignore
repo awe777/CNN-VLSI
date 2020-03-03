@@ -1,4 +1,5 @@
 PIPList.md
+.vscode/
 
 # Run-specific h5 file
 *.h5
