@@ -1,5 +1,5 @@
 # CNN-VLSI
-Referensi CNN untuk Kelas VLSI EL4138
+Referensi CNN untuk Kelas VLSI EL4138, banyak berhubungan dengan https://github.com/awe777/keras-yolo3 untuk pembuatan file anotasi, konversi .weights menjadi file .h5, dan lain-lain.
 
 # Index
 1. CNN_MNIST berisi model CNN refrensi
@@ -14,7 +14,7 @@ Referensi CNN untuk Kelas VLSI EL4138
 6. Jupyter notebook
 
 # Cara menjalankan notebook di linux/mac 
-Jika anda pakai windows, cari jalan yang serupa.
+Jika anda pakai windows, bisa memakai install.bat yang terdapat di root proyek ini
 
 1. Direkomendasikan anda mendownload paket software conda https://docs.anaconda.com/anaconda/install/
 2. Buat virtual environment conda https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands
@@ -23,7 +23,8 @@ Jika anda pakai windows, cari jalan yang serupa.
 5. Install nb_kernels (conda install nb_conda)
 6. Download dan jalankan notebook (jupyter notebook)
 
-
+# Note
+Sebelum inference menggunakan generated weight file, harap file \*.h5 yang sudah dibuat divalidasi dengan menjalankan cnn_tinyYolov3.ipynb tanpa melakukan training (men-*toggle comment* pada setiap training model).
 
 (Kode asal) Dibuat Oleh:
 
